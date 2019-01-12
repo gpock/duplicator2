@@ -1,0 +1,4 @@
+C:\Users\dellchik\documents\visual studio 2010\Projects\file_duplicator\file_duplicator\bin\Release\file_duplicator.exe
+C:\Users\dellchik\documents\visual studio 2010\Projects\file_duplicator\file_duplicator\bin\Release\file_duplicator.pdb
+C:\Users\dellchik\documents\visual studio 2010\Projects\file_duplicator\file_duplicator\obj\x86\Release\file_duplicator.exe
+C:\Users\dellchik\documents\visual studio 2010\Projects\file_duplicator\file_duplicator\obj\x86\Release\file_duplicator.pdb
